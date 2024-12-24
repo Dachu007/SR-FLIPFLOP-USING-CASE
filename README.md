@@ -68,7 +68,7 @@ endmodule
 Developed by: Dharshini.S  RegisterNumber:24900257
 */
 
-**RTL LOGIC FOR FLIPFLOPS**
+**RTL LOGIC FOR FLIPFLOP**
 
 ![Screenshot (32)](https://github.com/user-attachments/assets/3170dde0-d527-43bd-9dfa-8aeecb804ad6)
 
